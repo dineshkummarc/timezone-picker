@@ -1,5 +1,4 @@
 # timezone-picker
-
 timezone-picker is the plugin to select and get timezone value of selected area(country) from WorldMap.
 
 [![NPM version](https://badge.fury.io/js/timezone-picker.svg)](https://www.npmjs.com/package/timezone-picker)
